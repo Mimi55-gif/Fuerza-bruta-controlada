@@ -8,3 +8,8 @@ Ejemplos de salida:
 Reflexión:   
 ¿qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?  
 Debido a que el programa es generado para que compruebe la contraseña en secuencias, es decir probando diferentes combinaciones con el alfabeto, dígitos y tomando en cuenta las mayúsculas y minúsculas, al generar una contraseña tan larga y complicada nuestro programa necesitará mucho más tiempo para descifrar la contraseña lo que siginifica que tomará más recursos de nuestra computadora (memoria ram), lo que puede generar incluso el colapso de esta
+
+Graficas:  
+<img width="879" height="416" alt="image" src="https://github.com/user-attachments/assets/e35faddd-58e1-4a05-b56e-c608c89ea262" />  
+<img width="889" height="435" alt="image" src="https://github.com/user-attachments/assets/d70cd892-f119-4df2-9938-3faafadd3aaa" />
+
